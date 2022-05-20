@@ -1,0 +1,1 @@
+<img src="<?= SITE_TEMPLATE_PATH ?>/img/icons/logo2.svg" alt="Сайт" title="Сайт" loading="lazy">

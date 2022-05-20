@@ -1,0 +1,36 @@
+.white-title {
+    color: #fff;
+}
+
+.mg-bt-30 {
+    margin-bottom: 30px
+}
+
+input:checked + .menus__brand-text{
+    color: #1D94DB;
+}
+
+.brand-item {
+   border: 1px solid rgba(255, 255, 255, 0.28);
+}
+
+.brand-item:hover {
+    background: rgba(255, 255, 255, 0.28);
+}
+
+.brand-item img{
+    width: 270px;
+    max-width: 270px;
+    height: 270px;
+    max-height: 270px;
+}
+
+.brand-item .sale-text {
+    margin-top: 0px;
+}
+
+.brand-item .sale-text__title {
+    margin-bottom: 0px;
+    text-align: center;
+    margin-top: 25px;
+}

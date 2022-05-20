@@ -1,0 +1,11 @@
+.tq-component-result.error,.tq-component-result.error{
+    color: red;
+}
+
+.tq-component-result.success,.tq-component-result.success{
+    color: green;
+}
+
+.tq-component-result{
+    margin-bottom: 15px;
+}
